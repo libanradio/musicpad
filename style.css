@@ -15,7 +15,7 @@ body {
 }
 
 .container {
-  height: 60vh;
+  height: 80vh;
   width: 100%;
   flex-direction: column;
 }
@@ -28,7 +28,7 @@ body {
   letter-spacing: 1px;
 }
 .container .box {
-  height: -15vh;
+  height: -10vh;
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 30px;
