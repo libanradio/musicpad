@@ -15,7 +15,7 @@ body {
 }
 
 .container {
-  height: 20vh;
+  height: 10vh;
   width: 100%;
   flex-direction: column;
 }
@@ -31,7 +31,7 @@ body {
   height: 10vh;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-gap: 30px;
+  grid-gap: 150px;
   justify-content: space-around;
   align-items: center;
 }
